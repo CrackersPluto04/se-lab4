@@ -1,0 +1,2 @@
+gt4500,1,1,1,0    #creat a ship with 1-1 torpedo in each store, but primary always fails
+torpedo,single    #should fail

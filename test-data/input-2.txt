@@ -1,0 +1,4 @@
+gt4500,2,0,2,0  #create a new ship with 2 torpedos in each store
+torpedo,all     #should fire from both store, leaving 1-1 in each
+torpedo,all     #shooting torpedo from both store again, leaving 0-0 in each
+torpedo,all     #trying to shoot a torpedo, but the stores are empty
