@@ -1,0 +1,4 @@
+GT4500,1,0,1,0    #new ship with only 1 torpedo in each store
+torpedo,single    #shooting from primary - 0 left
+torpedo,single    #shooting from secondary - 0 left
+torpedo,single    #shooting from empty stores
